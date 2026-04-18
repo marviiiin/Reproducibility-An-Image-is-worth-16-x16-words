@@ -1,3 +1,2 @@
-from .trainer import Trainer
-from .scheduler import build_scheduler
-from .losses import LabelSmoothingCrossEntropy, SoftTargetCrossEntropy
+from .model import VisionTransformer, build_vit
+from .configs import VIT_CONFIGS
