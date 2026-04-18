@@ -7,6 +7,7 @@
 A complete, from-scratch PyTorch reproduction of the Vision Transformer (ViT), evaluated on CIFAR-10 with 5 systematic experiments. Includes a publishable reproducibility report, a 28-slide PowerPoint presentation, and structural limitations analysis.
 
 ---
+The system model was pretrained on CIFAR - 10 dataset
 
 ## Key Results
 
