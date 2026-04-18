@@ -128,7 +128,7 @@ reproducibility/
 │   ├── train.py                  # Training entry point
 │   ├── evaluate.py               # Test set evaluation
 │   ├── visualize_attention.py    # Attention map generation
-│   └── generate_report_figures.py# All matplotlib figures for report
+│   
 ├── configs/                      # YAML experiment configurations
 
 ```
